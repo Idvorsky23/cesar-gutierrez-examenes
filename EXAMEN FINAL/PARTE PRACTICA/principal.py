@@ -1,3 +1,4 @@
+#EJERCICIO 1 PARTE 2
 from modulo_listas import generar_lista, obtener_no_repetidos, ordenar_listas, mayor_par
 
 print("\n--- LLAMANDO FUNCIONES DESDE EL MÓDULO ---")

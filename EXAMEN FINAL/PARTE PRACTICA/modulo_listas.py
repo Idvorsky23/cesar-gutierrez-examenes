@@ -1,3 +1,4 @@
+#EJERCICIO 1 PARTE 1
 import random
 
 def generar_lista():

@@ -1,3 +1,4 @@
+#EJERCICIO 2
 from datetime import datetime
 
 def conteo(func):
@@ -20,6 +21,4 @@ def registrar_estudiante(nombre, edad, nota1, nota2, nota3, nota4):
     print("{} de {} años ha sido registrado a las {} horas con {} minutos.".format(nombre, edad, hora, minuto))
     print("Promedio del estudiante: {:.2f}".format(promedio))
 
-# Llamado de función
-print("\n--- EJERCICIO 2 ---")
 registrar_estudiante("Pedro", 30, 15, 18, 17, 16)
